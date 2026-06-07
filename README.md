@@ -27,6 +27,9 @@ ASERT Tracker is a specialized tool/monitoring script used by blockchain node op
 
 <img width="971" height="762" alt="ASERT-Tracker-Baseline" src="https://github.com/user-attachments/assets/55873494-c63b-4443-af68-b123c39a573e" /><br>
 
+<img width="972" height="766" alt="ASERT-Tracker-Strike" src="https://github.com/user-attachments/assets/10d53d7c-a259-4606-8aea-64ca6bfa5d03" /><br>
+
+
 <h3>File path and cofigurations to change:</h3>
 # --- Configuration ---<br>
 BCH_BIN_PATH = "/mnt/bch/bin/bitcoin-cli"<br>
