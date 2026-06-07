@@ -25,4 +25,12 @@ ASERT Tracker is a specialized tool/monitoring script used by blockchain node op
 
 <b>The Action: ACTIVATE ALL AUXILIARY HARDWARE.</b> Because you are a solo miner, the suppressed difficulty significantly amplifies your payout probability per Terahash compared to normal network baselines. Immediately dump your local backup rigs and your market rental orders into the pool before the block pace aggressively snaps back.
 
-<img width="971" height="762" alt="ASERT-Tracker-Baseline" src="https://github.com/user-attachments/assets/55873494-c63b-4443-af68-b123c39a573e" />
+<img width="971" height="762" alt="ASERT-Tracker-Baseline" src="https://github.com/user-attachments/assets/55873494-c63b-4443-af68-b123c39a573e" /><br>
+
+<h3>File path and cofigurations to change:</h3>
+# --- Configuration ---<br>
+BCH_BIN_PATH = "/mnt/bch/bin/bitcoin-cli"<br>
+BCH_DATA_DIR = "/mnt/bch/data/"<br>         
+RPC_PORT = "8349"<br>                    
+REFRESH_RATE = 4<br>
+VISIBLE_HISTORY_COUNT = 30  
