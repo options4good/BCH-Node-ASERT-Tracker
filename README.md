@@ -24,3 +24,5 @@ ASERT Tracker is a specialized tool/monitoring script used by blockchain node op
 <b>The Blueprint:</b> The last 4 blocks have an average block time exceeding <b>12.5 minutes</b> (750s+ ). ASERT is dramatically melting the difficulty threshold down. Your terminal's live clock on the current block is ticking high into deep green margins.
 
 <b>The Action: ACTIVATE ALL AUXILIARY HARDWARE.</b> Because you are a solo miner, the suppressed difficulty significantly amplifies your payout probability per Terahash compared to normal network baselines. Immediately dump your local backup rigs and your market rental orders into the pool before the block pace aggressively snaps back.
+
+<img width="971" height="762" alt="ASERT-Tracker-Baseline" src="https://github.com/user-attachments/assets/55873494-c63b-4443-af68-b123c39a573e" />
