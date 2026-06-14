@@ -1,4 +1,4 @@
-<h1>ASERT-Tracker</h1>
+<h1>BCH Node ASERT Tracker</h1>
 ASERT Tracker is a specialized tool/monitoring script used by blockchain node operators to track and analyze the network's Difficulty Adjustment Algorithm.<br>
 <h3>The Solo Miner’s ASERT Operational Matrix</h3>
 <b>STABLE NETWORK (Green)</b>
