@@ -30,10 +30,20 @@ ASERT Tracker is a specialized tool/monitoring script used by blockchain node op
 <img width="972" height="766" alt="ASERT-Tracker-Strike" src="https://github.com/user-attachments/assets/10d53d7c-a259-4606-8aea-64ca6bfa5d03" /><br>
 
 
-<h3>File path and cofigurations to change:</h3>
+<h3>File path and cofigurations must be changed prior start up:</h3>
 # --- Configuration ---<br>
 BCH_BIN_PATH = "/mnt/bch/bin/bitcoin-cli"<br>
 BCH_DATA_DIR = "/mnt/bch/data/"<br>         
 RPC_PORT = "8349"<br>                    
 REFRESH_RATE = 4<br>
 VISIBLE_HISTORY_COUNT = 30  
+<br><br>
+Download the latest bchasert.py file from the "Releases" section: https://github.com/options4good/BCH-Node-ASERT-Tracker/releases<br><br>
+
+<h4>Donations are highly appreciated and can be made via crypto:</h4>
+<b>DGB</b> wallet address:&nbsp;&nbsp;DEkZrJo1BHdiqnQq1XQSWGymEcDWGAWwZs<br>
+<b>DOGE</b> wallet address:&nbsp;&nbsp;DKZ9sv4VoTiQQdwi7VY25573UfpQqZJfYf<br>
+<b>LTC</b> wallet address:&nbsp;&nbsp;MJw3XHpR65Ec8rKEBthK5Dnvcy1CixYGTa<br>
+<b>BCH</b> wallet address:&nbsp;&nbsp;bitcoincash:qq66dg3vhczrqf4zy4kxje3c45vz47khsufsludxcc<br><br>
+Thank you.
+<br><br>
